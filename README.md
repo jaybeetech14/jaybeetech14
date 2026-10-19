@@ -36,7 +36,7 @@ keeping large catalogs fast and secure.
 ## Contact
 
 - bearthes@gmail.com
-- [Resume (PDF/DOCX available on request)] — or just ask, I reply fast.
+- [My resume (PDF)](Jason-Bearthes-Senior-Web-Developer-Resume.pdf)
 
 *All code here is built with AI-assisted development (Claude) — reviewed, tested, and
 running on live stores.*
